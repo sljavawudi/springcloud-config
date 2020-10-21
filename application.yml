@@ -5,11 +5,11 @@ spring:
 ---
 spring:
   profiles:dev
-    application:
-      name:springcloud-dev
+  application:
+    name:springcloud-dev
 
 ---
 spring:
   profiles:test
-    application:
-      name:springcloud-test
+  application:
+    name:springcloud-test
